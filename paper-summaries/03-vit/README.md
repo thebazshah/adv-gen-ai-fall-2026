@@ -24,7 +24,7 @@
 14. [Equation cheat sheet](#14-equation-cheat-sheet)
 15. [Check your understanding](#15-check-your-understanding)
 
-ViT reuses the Transformer encoder ([`../01-attention-is-all-you-need/`](../01-attention-is-all-you-need/)) and BERT's `[class]`-token idea ([`../02-bert/`](../02-bert/)).
+ViT reuses the Transformer encoder ([`../01-attention-is-all-you-need/`](../01-attention-is-all-you-need/)) and BERT's `[class]`-token idea ([`../02-bert/`](../02-bert/)). To test yourself, see the [exam questions with answers](exam-questions.md).
 
 ---
 

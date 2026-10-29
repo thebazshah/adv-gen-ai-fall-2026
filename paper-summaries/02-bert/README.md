@@ -23,7 +23,7 @@
 13. [Equation cheat sheet](#13-equation-cheat-sheet)
 14. [Check your understanding](#14-check-your-understanding)
 
-Fully worked numerical examples of both pre-training tasks are in [`../../bert-pen-and-paper/`](../../bert-pen-and-paper/). BERT is built from the Transformer encoder, summarised in [`../01-attention-is-all-you-need/`](../01-attention-is-all-you-need/).
+Fully worked numerical examples of both pre-training tasks are in [`../../bert-pen-and-paper/`](../../bert-pen-and-paper/). BERT is built from the Transformer encoder, summarised in [`../01-attention-is-all-you-need/`](../01-attention-is-all-you-need/). To test yourself, see the [exam questions with answers](exam-questions.md).
 
 ---
 

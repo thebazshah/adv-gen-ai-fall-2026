@@ -23,7 +23,7 @@
 13. [Equation cheat sheet](#13-equation-cheat-sheet)
 14. [Check your understanding](#14-check-your-understanding)
 
-A fully worked numerical example of every step described here is in [`../../transformer-pen-and-paper/`](../../transformer-pen-and-paper/).
+A fully worked numerical example of every step described here is in [`../../transformer-pen-and-paper/`](../../transformer-pen-and-paper/). To test yourself, see the [exam questions with answers](exam-questions.md).
 
 ---
 
